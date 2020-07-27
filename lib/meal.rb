@@ -13,6 +13,7 @@ class Meal
   end
   
   
+  
   def self.all
     @@all
   end 
