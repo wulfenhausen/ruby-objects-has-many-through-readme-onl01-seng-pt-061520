@@ -18,4 +18,6 @@ class Waiter
     @@all
   end 
   
+  def meals
+    Meal.select {|meal| meal.
 end
